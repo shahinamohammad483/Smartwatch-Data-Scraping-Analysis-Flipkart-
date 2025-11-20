@@ -16,6 +16,7 @@ It covers every stage—from web scraping raw HTML data to cleaning, transformin
 - Build insights to support business decisions and customer comparison
 
 📂 Included Files
+
 1️⃣ Web Scraping Script 
 
 Scrapes smartwatch product details such as:
